@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Embedded and AI/ML developer</h3>
 
 <p align="left"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+  
+  
+  
 - 📫 How to reach me **jamesmirajkar5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
