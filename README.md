@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Embedded and AI/ML developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesmirajkar&label=Profile%20views&color=0e75b6&style=flat" alt="jamesmirajkar" /> </p>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 📫 How to reach me **jamesmirajkar5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
