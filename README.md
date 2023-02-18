@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm James Samuel Mirajkar</h1>
 <h3 align="center">A passionate Embedded and AI/ML developer</h3>
-<p align="center">
-<p align="left"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-</p>  
+<p align="center"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+  
   
   
 - 📫 How to reach me **jamesmirajkar5@gmail.com**
