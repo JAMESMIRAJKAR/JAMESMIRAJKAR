@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/james samuel mirajkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james samuel mirajkar" height="30" width="40" /></a>
 <a href="https://instagram.com/james__mirajkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="james__mirajkar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/james_mirajkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="james_mirajkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/james mirajkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jamesmirajkar5?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/james mirajkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jamesmirajkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
